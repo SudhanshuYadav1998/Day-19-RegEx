@@ -1,0 +1,15 @@
+C:\RFP\C_sharp\Day-19-UC5\Day-19-UC5\bin\Debug\net6.0\Day-19-UC5.exe
+C:\RFP\C_sharp\Day-19-UC5\Day-19-UC5\bin\Debug\net6.0\Day-19-UC5.deps.json
+C:\RFP\C_sharp\Day-19-UC5\Day-19-UC5\bin\Debug\net6.0\Day-19-UC5.runtimeconfig.json
+C:\RFP\C_sharp\Day-19-UC5\Day-19-UC5\bin\Debug\net6.0\Day-19-UC5.dll
+C:\RFP\C_sharp\Day-19-UC5\Day-19-UC5\bin\Debug\net6.0\Day-19-UC5.pdb
+C:\RFP\C_sharp\Day-19-UC5\Day-19-UC5\obj\Debug\net6.0\Day-19-UC5.csproj.AssemblyReference.cache
+C:\RFP\C_sharp\Day-19-UC5\Day-19-UC5\obj\Debug\net6.0\Day-19-UC5.GeneratedMSBuildEditorConfig.editorconfig
+C:\RFP\C_sharp\Day-19-UC5\Day-19-UC5\obj\Debug\net6.0\Day-19-UC5.AssemblyInfoInputs.cache
+C:\RFP\C_sharp\Day-19-UC5\Day-19-UC5\obj\Debug\net6.0\Day-19-UC5.AssemblyInfo.cs
+C:\RFP\C_sharp\Day-19-UC5\Day-19-UC5\obj\Debug\net6.0\Day-19-UC5.csproj.CoreCompileInputs.cache
+C:\RFP\C_sharp\Day-19-UC5\Day-19-UC5\obj\Debug\net6.0\Day-19-UC5.dll
+C:\RFP\C_sharp\Day-19-UC5\Day-19-UC5\obj\Debug\net6.0\refint\Day-19-UC5.dll
+C:\RFP\C_sharp\Day-19-UC5\Day-19-UC5\obj\Debug\net6.0\Day-19-UC5.pdb
+C:\RFP\C_sharp\Day-19-UC5\Day-19-UC5\obj\Debug\net6.0\Day-19-UC5.genruntimeconfig.cache
+C:\RFP\C_sharp\Day-19-UC5\Day-19-UC5\obj\Debug\net6.0\ref\Day-19-UC5.dll
